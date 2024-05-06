@@ -1,8 +1,5 @@
 # LAN Chat Application
 
-## Team Members
-- Zeyad Salah Mohamed Fathi Mohamed Moussa (120210297)
-
 ## Introduction
 The project is a local chat application developed in Python. It allows two devices on the same Local Area Network (LAN) to communicate with each other. The application uses the socket and threading libraries in Python.
 
@@ -26,7 +23,9 @@ The client is also implemented using Python’s socket, threading, and tkinter l
 
 **Expected Result:** The client should successfully connect to the server.
 
-https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat1.png
+[![LAN Chat 1](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat1.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat1.png)
+
+In this case, clicking on the image in the rendered Markdown will take you to the image URL. I hope this helps! If you need any more assistance, feel free to ask. 😊
 
 ### Test Case 2: Message Delivery
 **Description:** This test case verifies that a message sent by a client is received by the server.
