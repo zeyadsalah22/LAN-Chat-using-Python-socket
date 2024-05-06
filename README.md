@@ -40,7 +40,7 @@ In this case, clicking on the image in the rendered Markdown will take you to th
 
 I see, you want to display the image and also have it link to the source. You can do this by combining the Markdown syntax for images and links. Here's how you can do it:
 
-[![LAN Chat 2](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat1.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat2.png)
+[![LAN Chat 2](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat2.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat2.png)
 
 In this case, clicking on the image in the rendered Markdown will take you to the image URL. I hope this helps! If you need any more assistance, feel free to ask. 😊
 
@@ -55,7 +55,7 @@ In this case, clicking on the image in the rendered Markdown will take you to th
 
 **Expected Result:** The message should be successfully sent from one client and received by the other client.
 
-[![LAN Chat 3](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat1.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat3.png)
+[![LAN Chat 3](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat3.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat3.png)
 
 
 ### Test Case 4: Empty Message
@@ -69,7 +69,7 @@ In this case, clicking on the image in the rendered Markdown will take you to th
 
 **Expected Result:** The server should ignore the empty message and not broadcast it to other clients.
 
-[![LAN Chat 4](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat1.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat4.png)
+[![LAN Chat 4](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat4.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat4.png)
 
 
 ### Test Case 5: Client Disconnection
@@ -84,9 +84,9 @@ In this case, clicking on the image in the rendered Markdown will take you to th
 
 **Expected Result:** The server should continue. The disconnected client should no longer receive messages.
 
-[![LAN Chat 5](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat1.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat5.png)
+[![LAN Chat 5](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat5.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat5.png)
 
-[![LAN Chat 6](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat1.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat6.png)
+[![LAN Chat 6](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat6.png)](https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat6.png)
 
 
 ## Conclusion
