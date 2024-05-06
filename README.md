@@ -26,8 +26,7 @@ The client is also implemented using Python’s socket, threading, and tkinter l
 
 **Expected Result:** The client should successfully connect to the server.
 
-!LAN Chat 1
-
+https://github.com/zeyadsalah22/LAN-Chat-using-Python-socket/blob/main/images/lanchat1.png
 
 ### Test Case 2: Message Delivery
 **Description:** This test case verifies that a message sent by a client is received by the server.
